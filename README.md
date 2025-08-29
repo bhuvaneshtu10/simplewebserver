@@ -37,11 +37,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 
-<img width="1919" height="1196" alt="image" src="https://github.com/user-attachments/assets/7bec8c91-0224-47f9-8ba7-f4d94dc72089" />
 
 ## OUTPUT:
 
-<img width="1919" height="1199" alt="Screenshot 2025-08-25 142909" src="https://github.com/user-attachments/assets/db21bc05-9aa5-4e6d-a1f0-88de30040a0f" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
